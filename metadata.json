@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Actions IPA Compiler & Manager",
+  "description": "An advanced GitHub Actions iOS IPA compile monitor, repository workspace editor, and automated AI diagnostic assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
